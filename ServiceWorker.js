@@ -1,4 +1,4 @@
-const cacheName = "TeamRocket-Game_Rocket-0.0.1";
+const cacheName = "TeamRocket-Game_Rocket-0.0.3";
 const contentToCache = [
     "Build/app-01.loader.js",
     "Build/app-01.framework.js.unityweb",
