@@ -1,6 +1,6 @@
 {
-    "name": "Pls",
-    "short_name": "Pls",
+    "name": "pls",
+    "short_name": "pls",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
